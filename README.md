@@ -5,11 +5,11 @@ Firend es un sistema que recibe una imagen infrarroja (preferiblemente en blanco
 
 Autores:
 
-Eduardo Galeano
-Juan David Solanilla
-Julieth Acero
-Jose Gutierrez
-Miguel Rivera
-Vanessa Sora
+Eduardo Galeano.<br/>
+Juan David Solanilla.<br/>
+Julieth Acero.<br/>
+Jose Gutierrez.<br/>
+Miguel Rivera.<br/>
+Vanessa Sora.<br/>
 
 Contacto: Eduardo Galeano (cegard689@gmail.com)
